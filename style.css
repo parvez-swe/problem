@@ -1,0 +1,33 @@
+body {
+    background-color:rgba(131, 75, 75, 0.336);
+  }
+
+#flex{
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+#pic{
+  background-image: url("business-man.png");
+  height: 300px;
+  width: 100%;
+  size: 30px;
+  background-repeat: no-repeat;
+
+}
+
+#pic h3{
+  font-size: 20px;
+  margin-left:400px;
+  color: rgb(26, 50, 185);
+}
+
+#n{
+
+    margin:30px 50px;
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+  }
